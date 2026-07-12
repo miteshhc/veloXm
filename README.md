@@ -4,8 +4,8 @@
 
 
 ## 🥷 About Me
-- 🎓️ I'm currently pursuing Diploma in Computer Engineering.
+- 🎓️ I'm currently pursuing Bachelors in Computer Science and Engineering.
 - 🖥️ I'm a tech enthusiast who loves to experiment with new tools and technologies.
 - 🍁 I enjoy working on new projects, as well as improving existing projects.
-- ⚡ Fun Fact: I use Arch Linux *btw* with awesome wm.
+- ⚡ Fun Fact: I use Arch Linux *btw* with dwm.
 
